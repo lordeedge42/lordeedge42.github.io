@@ -1,1 +1,3 @@
-# lordeedge42.github.io
+# welcome to my universe
+
+just building stuff
